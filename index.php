@@ -232,7 +232,7 @@ DATE: <span class="badge badge-dark" id="datetime">01/02/2022</span> •  TIME: 
 $(document).ready(function(){
 
 
-Swal.fire({ title: "Warning!", text: "VIRUS DETECTED!", icon: "warning", confirmButtonText: "OK", buttonsStyling: false, confirmButtonClass: 'btn btn-primary'});
+Swal.fire({ title: "Warning!", text: "Harami DETECTED!", icon: "warning", confirmButtonText: "OK", buttonsStyling: false, confirmButtonClass: 'btn btn-primary'});
 
 
 $('.show-charge').click(function(){
